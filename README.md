@@ -168,6 +168,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 **Nurdaulet Berdibek**
 
-Data Analyst / BI Analyst
+Data Analyst
 
 Python • SQL • Tableau • Machine Learning
